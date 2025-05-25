@@ -1,0 +1,33 @@
+title: 友情链接
+subtitle: 优秀的博主和朋友们
+
+# 指定使用的模板文件名，现有页面模板可见templates\pages
+template: friends
+
+categories:
+  - name: 日常博主
+    icon: fas fa-user-friends
+    sites:
+      - name: 莽新的博客
+        icon: https://dh.nloln.cn/assets/images/logos/20201023/543a87aab2c82138b226b015733f0bdf.png
+        description: 分享日常、心得
+        url: "https://infinitentrophy.nloln.cn/"
+      - name: 小红的前端
+        icon: fas fa-paint-brush
+        description: 专注前端开发与设计
+        url: "#"
+      - name: 小张的后端
+        icon: fas fa-server
+        description: 分享后端开发经验
+        url: "#"
+  - name: 技术社区
+    icon: fas fa-laptop-code
+    sites:
+      - name: GitHub
+        icon: fab fa-github
+        description: 开源代码托管平台
+        url: https://github.com
+      - name: Stack Overflow
+        icon: fab fa-stack-overflow
+        description: 程序员问答社区
+        url: https://stackoverflow.com 
