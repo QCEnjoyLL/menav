@@ -9,9 +9,9 @@ categories:
     icon: fas fa-user-friends
     sites:
       - name: 莽新的博客
-        icon: https://dh.nloln.cn/assets/images/logos/20201023/543a87aab2c82138b226b015733f0bdf.png
+        icon: "https://dh.nloln.cn/assets/images/logos/20201023/543a87aab2c82138b226b015733f0bdf.png"
         description: 分享日常、心得
-        url: "https://infinitentrophy.nloln.cn/"
+        url: https://infinitentrophy.nloln.cn
       - name: 小红的前端
         icon: fas fa-paint-brush
         description: 专注前端开发与设计
